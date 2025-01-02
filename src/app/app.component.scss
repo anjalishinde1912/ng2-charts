@@ -1,0 +1,11 @@
+.chart-container {
+  &.dark-mode {
+    background: #928585;
+    color: #fff;
+  }
+
+  &.light-mode {
+    background: #fff;
+    color: #333;
+  }
+}
